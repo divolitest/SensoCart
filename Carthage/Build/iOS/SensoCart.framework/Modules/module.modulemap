@@ -1,0 +1,11 @@
+framework module SensoCart {
+  umbrella header "SensoCart.h"
+
+  export *
+  module * { export * }
+}
+
+module SensoCart.Swift {
+    header "SensoCart-Swift.h"
+    requires objc
+}

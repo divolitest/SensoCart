@@ -1,0 +1,33 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__T09SensoCart06sampleB0CML
+__T09SensoCart06sampleB0CMf
+__T09SensoCart06sampleB0CMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_SensoCart
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_SensoCart
+__swift_FORCE_LOAD_$_swiftDarwin_$_SensoCart
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_SensoCart
+__swift_FORCE_LOAD_$_swiftDispatch_$_SensoCart
+__swift_FORCE_LOAD_$_swiftUIKit_$_SensoCart
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_SensoCart
+__swift_FORCE_LOAD_$_swiftCoreImage_$_SensoCart
+__swift_FORCE_LOAD_$_swiftMetal_$_SensoCart
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_SensoCart
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 9.1.0 (clang-902.0.37.1)
+-emit-bc /Users/sreejiths/Desktop/SensoCart/SensoCart/sampleCart.swift -target arm64-apple-ios11.3 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk -I /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/BuildProductsPath/Release-iphoneos -F /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/BuildProductsPath/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -swift-version 4 -O -serialize-debugging-options -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/SensoCart-generated-files.hmap -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/SensoCart-own-target-headers.hmap -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/SensoCart-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/SensoCart-project-headers.hmap -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/DerivedSources/arm64 -Xcc -I/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/sreejiths/Desktop/SensoCart -emit-module-doc-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/SensoCart.swiftdoc -serialize-diagnostics-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/sampleCart.dia -parse-as-library -module-name SensoCart -emit-module-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/SensoCart.swiftmodule -emit-objc-header-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/SensoCart-Swift.h -emit-dependencies-path /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/sampleCart.d -num-threads 4 -o /Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/Objects-normal/arm64/sampleCart.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/sreejiths/Desktop/SensoCart
+Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)
+/Users/sreejiths/Desktop/SensoCart/SensoCart/sampleCart.swift
+_T09SensoCart06sampleB0CMa
+sampleCart.swift
+/Users/sreejiths/Desktop/SensoCart/SensoCart
+get_field_types_sampleCart
+deinit
+sampleFunction
+Apple LLVM version 9.1.0 (clang-902.0.39.1)
+/Users/sreejiths/Library/Developer/Xcode/DerivedData/SensoCart-hhldjyizdnvljifuiczvxgoribio/Build/Intermediates.noindex/ArchiveIntermediates/SensoCart/IntermediateBuildFilesPath/SensoCart.build/Release-iphoneos/SensoCart.build/DerivedSources/SensoCart_vers.c
